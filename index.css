@@ -1,0 +1,51 @@
+/*CSS Reset*/
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Geologica', sans-serif;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+nav {
+	background-color: darkcyan;
+	margin-bottom: 50px;
+
+}
+
+a{
+	text-decoration: none;
+	padding: 5px;
+}
+
+#home {
+	background-color:lightsteelblue;
+	}
+
+	#im {
+		margin-top: 75px;
+	}
+
+#about {
+		background-color: lightsalmon;
+	}
+
+#gall {
+	background-color: lightseagreen;
+}
+#con {
+	background-color: lightslategray;
+}
+
+
+
+#footer {
+	background-color: lightcoral;
+}
